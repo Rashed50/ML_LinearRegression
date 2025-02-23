@@ -1,4 +1,4 @@
-### Mathmatical details for linearRegression
+### Details of this project linearRegression model
 #### Detail of the output 
 ```
 b0​=50000 → The base price of a house (even if size and bedrooms are zero) is $50,000.
