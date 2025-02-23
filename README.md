@@ -9,5 +9,8 @@ Equation , Y = b0+b1*X for single features
 But for multiple features
            Y = b0+ b1*x1+ b2*x2 + b3*x3
 
-
+From the Python example, we obtained:
+Intercept (b0​) = 50,000
+Coefficient for Size (b1​) = 100
+Coefficient for Bedrooms (b2​) = 5,000
 ```
